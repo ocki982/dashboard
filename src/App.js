@@ -65,6 +65,7 @@ const App = () => {
 
           <div>
             {themeSettings && <ThemeSettings/>}
+            
 
             <Routes>
               {/* Dashboard */}
