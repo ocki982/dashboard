@@ -5,6 +5,7 @@ Shoppy is a crm dashboard with all you need when checking your ecommerce busines
 *UPDATE*
 Now you can check the webstie live! https://ecommerce-dashboard-sync.netlify.app/ 
 
+![ecommerce](https://user-images.githubusercontent.com/68573345/184258393-a09e24bc-1c4d-466b-9b65-4594edf53856.png)
 
 
 ## Authors
